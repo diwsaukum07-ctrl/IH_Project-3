@@ -55,4 +55,4 @@ does not imply causation — vaccine type alone does not explain death rates.
 2. CSV Dataset — COVID-19 Vaccine Locations (Kaggle / WHO)
 
 # 🔗 Link To COVID-19 Vaccine Project:
-https://
+https://docs.google.com/presentation/d/158Rui66ipmAvLLg18T3BG-AYsjEmBqqWy8oL10Mo-XE/edit?usp=sharing
