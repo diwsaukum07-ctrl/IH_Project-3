@@ -41,9 +41,14 @@ H4 — AstraZeneca-only countries show higher deaths per million than countries 
 
 # 📊 Key Findings:
 1. 🟡 H1 — Inconclusive: Group sizes were unequal, confounding factors affected results
-2. 🔴 H2 — Surprising: Mixed group had the highest death rate due to older populations in wealthier nations
-3. 🔵 H3 — Revised: Groups too unbalanced — switched to casesPerOneMillion to normalize by population
-4. ✅ H4 — Unexpected: AstraZeneca-only countries had FEWER deaths — explained by younger populations in Africa & Pacific islands, not vaccine effectiveness
+ ![Hypothesis 1](images/hypothesis1.png)
+3. 🔴 H2 — Surprising: Mixed group had the highest death rate due to older populations in wealthier nations
+ ![Hypothesis 2](images/hypothesis2.png)
+
+5. 🔵 H3 — Revised: Groups too unbalanced — switched to casesPerOneMillion to normalize by population
+ ![Hypothesis 3](images/hypothesis3.png)
+7. ✅ H4 — Unexpected: AstraZeneca-only countries had FEWER deaths — explained by younger populations in Africa & Pacific islands, not vaccine effectiveness
+ ![Hypothesis 4](images/hypothesis4.png)
 
 # 📌 Key Limitation:
 Confounding factors such as population age, country wealth, and 
@@ -55,4 +60,4 @@ does not imply causation — vaccine type alone does not explain death rates.
 2. CSV Dataset — COVID-19 Vaccine Locations (Kaggle / WHO)
 
 # 🔗 Link To COVID-19 Vaccine Project:
-https://
+https://docs.google.com/presentation/d/158Rui66ipmAvLLg18T3BG-AYsjEmBqqWy8oL10Mo-XE/edit?usp=sharing
